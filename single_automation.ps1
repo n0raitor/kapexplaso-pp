@@ -1,7 +1,7 @@
 #THis Script was changed by NoSch and implements single host usecases
 #Expects structure "Collections\Targets"
 
-Write-Host "Format of the Path to the Case: X:\\\\Casexxx\Collections\Target\..."
+Write-Host "Format of the Path to the Case: <YOurPath>\Collections\Target\..."
 $path=Read-Host -Prompt "Path to Case Dir (Only up to Collections Parent):"
 #$path="D:\_CASES\326-InfoProtect" #Testing
 $targetpath="$path\Collections\Targets\"
