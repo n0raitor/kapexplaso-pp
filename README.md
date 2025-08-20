@@ -1,5 +1,5 @@
 # kapexplaso-pp
-KAPE x Plaso = Hero - A Automated experience of processing KAPE Targets or E01 Images
+KAPE x Plaso = Hero - An Automated experience of processing KAPE Targets or E01 Images
 
 Enter the Path where the Collections (Collections/Target/<target>.zip) is located.
 This Target is the result of a Kape collection (SANS Target e.g.)
